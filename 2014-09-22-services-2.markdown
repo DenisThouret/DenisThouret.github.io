@@ -1,9 +1,0 @@
----
-layout: default
-img: dog.png
-category: Services
-title: Et hop'... Un petit morceau de guitare...
-description: |
----
-... Pour le plaisir du badaud
-déambulant et captivé par les créations, inventions et innovations diverses...
