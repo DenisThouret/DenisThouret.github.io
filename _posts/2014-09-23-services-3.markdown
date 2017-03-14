@@ -1,10 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: dog.png
 category: Services
-title: Des micros... ça???
+title: Et hop'... Un petit morceau de guitare...
 description: |
 ---
-Effectivement!!! Ce sont des capteurs piezo, bricolés sur un coin de table, pour la modique somme d'environ 7€...
-
-Ces fameuses pastilles transforment les vibrations de la guitare en signaux électriques qui sont traités ensuite par un ampli.
+... Pour le plaisir du badaud
+déambulant et captivé par les créations, inventions et innovations diverses...

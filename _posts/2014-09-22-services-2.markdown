@@ -1,9 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: ipad.png
 category: Services
-title: Et hop'... Un petit morceau de guitare...
+title: Expo Maker-Faire<br>Nantes 2016
 description: |
 ---
-... Pour le plaisir du badaud
-déambulant et captivé par les créations, inventions et innovations diverses...
+Escale de 2 jours sur la planète "Makers"... L'Univers de la créativité par excellence!!!
+
+Sur ce salon, la célèbre citation de Marcel Pagnol y prend tout son sens : "Tout le monde savait que c'était impossible. Il est venu un imbécile qui ne le savait pas et qui l'a fait..."
+
+Comme quoi, chaque idée est toute à fait réalisable pour peu qu'on ait la volonté d'aller au bout des choses!!! ;-)
