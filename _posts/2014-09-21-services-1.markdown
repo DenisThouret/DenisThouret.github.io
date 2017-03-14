@@ -4,6 +4,7 @@ img: mediator.jpg
 category: Services
 title: Vision d'avenir...
 description: |
+id1: tutu
 ---
 ... La "traditionnelle" guitare fait danser sur les plages, rêver et chantonner de douces mélodies... Elle fait aussi hurler les voisins quand l'ampli est trop fort... C'est une véritable fabrique d'émotions et de souvenirs!!!
 

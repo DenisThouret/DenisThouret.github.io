@@ -4,6 +4,7 @@ img: dog.png
 category: Services
 title: Agrémenté d'un peu de musique...
 description: |
+id1: titi
 ---
 ... Pour le plaisir du badaud
 déambulant et captivé par les créations, inventions et innovations diverses...

@@ -4,7 +4,11 @@ img: ipad.png
 category: Services
 title: Expo "CBG" au Maker-Faire<br>Nantes 2016
 description: |
+id1: nantes
 ---
+
+
+
 Escale de 2 jours sur la planète "Makers"... L'Univers de la créativité par excellence!!!
 
 Sur ce salon, la célèbre citation de Marcel Pagnol y prend tout son sens : "Tout le monde savait que c'était impossible. Il est venu un imbécile qui ne le savait pas et qui l'a fait..."
