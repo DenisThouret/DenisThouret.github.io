@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Et hop'... Un petit morceau de guitare...
+title: Agrémenté de petits morceaux de guitare...
 description: |
 ---
 ... Pour le plaisir du badaud
