@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Agrémenté de petits morceaux de guitare...
+title: Agrémenté d'un peu de musique...
 description: |
 ---
 ... Pour le plaisir du badaud
