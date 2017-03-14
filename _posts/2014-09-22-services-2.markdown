@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Expo Maker-Faire<br>Nantes 2016
+title: Expo "CBG" au Maker-Faire<br>Nantes 2016
 description: |
 ---
 Escale de 2 jours sur la planète "Makers"... L'Univers de la créativité par excellence!!!
